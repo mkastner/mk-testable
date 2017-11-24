@@ -1,0 +1,9 @@
+{
+  "name": "Testable",
+  "version": "0.0.1",
+  "description": "A Javascript/Node Module Test Structure",
+  "main": "index.js",
+  "repository": "https://github.com/mkastner/mk-testable.git",
+  "author": "John Galt",
+  "license": "MIT"
+}
